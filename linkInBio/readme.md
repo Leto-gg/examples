@@ -4,7 +4,7 @@
 Use Leto on your IPFS hosted website to monitor traffic and improve your system. In this example, an HTML webpage is uploaded to IPFS via Web3.storage and is retrieved using the Leto IPFS gateway. Anonymous analytics data is then accessible through the Leto dashboard or Analytics API.
 
 ## Link in Bio webpage on IPFS
-Create a simple html webpage to display your important links. View the code used in this example [here](https://github.com/galaxyxtwo/linkInBio/tree/main). For this example, there is some basic css in the index.html file to make it easy to upload to Web3.storage (IPFS).
+Create a simple html webpage to display your important links. View the code used in this example [here]([https://github.com/galaxyxtwo/linkInBio/tree/main](https://github.com/Leto-gg/examples/tree/main/linkInBio)). For this example, there is some basic css in the index.html file to make it easy to upload to Web3.storage (IPFS).
 
 > **Note:** 
 > If you want to include other files (like a separate css file) or have an app like a react app, you will have to build it and then upload the build folder to Web3.storage.
